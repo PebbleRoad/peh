@@ -316,7 +316,7 @@ tr.note-row td.note-bg {
 
 }
 table.whole-row, table.whole-note, table#column-header, div.temp-wrapper {
-width: 1446px;
+width: 1080px;
 
 }
 /******************
@@ -334,42 +334,37 @@ tr#header td:nth-of-type(1), tr.outline-row > td:nth-of-type(1), tr.note-row > t
     max-width: 20px; 
 }
 table.outline-column { 
-    width: 247px; 
-    max-width: 247px; 
+    width: 311px; 
+    max-width: 311px; 
 }
 tr#header td:nth-of-type(2), tr.outline-row > td:nth-of-type(2) { 
-    width: 247px; 
-    max-width: 247px; 
+    width: 311px; 
+    max-width: 311px; 
     
 }
 tr#header td:nth-of-type(3), tr.outline-row > td:nth-of-type(3), tr.note-row > td:nth-of-type(3) { 
-    width: 138px; 
-    max-width: 138px; 
-    
-}
-tr#header td:nth-of-type(4), tr.outline-row > td:nth-of-type(4), tr.note-row > td:nth-of-type(4) { 
     width: 149px; 
     max-width: 149px; 
     
 }
+tr#header td:nth-of-type(4), tr.outline-row > td:nth-of-type(4), tr.note-row > td:nth-of-type(4) { 
+    width: 150px; 
+    max-width: 150px; 
+    
+}
 tr#header td:nth-of-type(5), tr.outline-row > td:nth-of-type(5), tr.note-row > td:nth-of-type(5) { 
-    width: 197px; 
-    max-width: 197px; 
+    width: 150px; 
+    max-width: 150px; 
     
 }
 tr#header td:nth-of-type(6), tr.outline-row > td:nth-of-type(6), tr.note-row > td:nth-of-type(6) { 
-    width: 237px; 
-    max-width: 237px; 
+    width: 150px; 
+    max-width: 150px; 
     
 }
 tr#header td:nth-of-type(7), tr.outline-row > td:nth-of-type(7), tr.note-row > td:nth-of-type(7) { 
     width: 150px; 
     max-width: 150px; 
-    
-}
-tr#header td:nth-of-type(8), tr.outline-row > td:nth-of-type(8), tr.note-row > td:nth-of-type(8) { 
-    width: 308px; 
-    max-width: 308px; 
     
 }
 
@@ -393,9 +388,6 @@ tr.outline-row > td:nth-of-type(6), tr.note-row > td:nth-of-type(6){
     
 }
 tr.outline-row > td:nth-of-type(7), tr.note-row > td:nth-of-type(7){ 
-    
-}
-tr.outline-row > td:nth-of-type(8), tr.note-row > td:nth-of-type(8){ 
     
 }
 
@@ -435,18 +427,18 @@ Named styles info:
 Padding values are not included here because they are additive and can affect a different row than the one that has the attribute
 *********************************************/
 /* Named Styles */
-div#centered tr td .ns-a8uPZdPz_yn-Content, .ns-a8uPZdPz_yn-Content, div#centered .ns-a8uPZdPz_yn-Content div { 
+div#centered tr td .ns-nR5em2RIn2Y-Content, .ns-nR5em2RIn2Y-Content, div#centered .ns-nR5em2RIn2Y-Content div { 
     color: rgb(103,103,103);
     font-style: italic;
     
 }
 
 /* Named Styles Backgroud Colors */
-div#centered tr td .ns-bg-a8uPZdPz_yn-Content, .ns-bg-a8uPZdPz_yn-Content { 
+div#centered tr td .ns-bg-nR5em2RIn2Y-Content, .ns-bg-nR5em2RIn2Y-Content { 
     
 }
 
 /* Named Styles Gutter Colors */
-div#centered tr td .ns-gutter-a8uPZdPz_yn-Content, .ns-gutter-a8uPZdPz_yn-Content { 
+div#centered tr td .ns-gutter-nR5em2RIn2Y-Content, .ns-gutter-nR5em2RIn2Y-Content { 
     
 }
